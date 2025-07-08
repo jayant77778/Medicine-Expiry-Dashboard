@@ -92,10 +92,14 @@ matplotlib
 
 ---
 
+## 🤝 Connect With Me
+
+* 💼 [LinkedIn – Jayant Bhati](https://www.linkedin.com/in/jayantbhati77/)
+
+---
+
 ## 📌 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-```
 
 
